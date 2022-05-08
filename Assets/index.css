@@ -1,0 +1,42 @@
+
+
+  
+body{
+    font-family: poppins,Actor,Adamina;  
+    
+   
+    
+  }
+  nav{
+      width: 80%;
+      height:800px;
+      background-image:url("./Images/moving-1.png");
+      background-size: cover;
+      
+  }
+  nav>ul{
+      padding-top: 40px;
+      display: flex;
+      justify-content:right;
+  }
+  nav>ul>li{
+      display: inline-block;
+      margin-right: 30px;
+      color: rgb(72, 78, 78);
+      
+    }
+    .button1{
+        padding: 10px;
+        background-color:#FFAC12;
+
+    }
+    nav>ul>li.button2{
+        padding: 10px;
+        background-color: black;
+        color: #FFAC12;
+    }
+    .navexp{
+        width: 50%;
+        margin-top: 40px;
+        color#FAFF00"
+    
