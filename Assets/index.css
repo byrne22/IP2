@@ -36,4 +36,305 @@ body{
         font: normal;
 
 
+    }
+}
+.content1{
+    margin-top: 20px;
+    display: flex;
+    padding-left: 150px;
+}
+#image1{
+    
+padding: 10px;
+}
+#contentMOre{
+    padding-left: 100px;
+
+}
+#head{
+    padding-top: 50px;
+    padding-left: 50px;
+    text-decoration: overline;
+
+}
+section>div>ul{
+    display: flex;
+    list-style:none ;
+    margin-top: 60px;
+    
+    
+}
+#row1{
+
+    margin-left: 30px;
+    justify-content: space-around;
+    padding:20px;
+    
+    
+}
+#row2{
+    margin-left: 30px;
+    justify-content: space-around;
+    padding:20px;
+    margin-bottom: 20px;
+    
+}
+.sectionthree{
+    background-color: black;
+    height: 300px;
+    padding-left: 50px;
+    padding-top: 10px;
+   
+
+}
+.sectionthree h2{
+    color: white;
+}
+.sectionthree ul{
+    color: white;
+    list-style: none;
+}
+.sectionthree p{
+    color:white
+
+}
+footer{
+    display: flex;
+}
+#three{
+    display: flex;
+    padding-top: 0px;
+    margin-left: 800px;
+
+}
+button{
+    border: 0px;
+}
+#para a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    
+}
+#para{
+    display: flex;
+    padding-top: 30px;
+
+}
+hr{
+    border-color: rgb(68, 52, 52);
+}
+a:link{
+    color: white;
+}
+a:hover{
+    color: #FFAC12;
+}
+
+
+/* CSS code for page TWO */
+
+
+#headerone{
+    background-color: black;
+    color: azure;
+    padding-left: 20px;
+}
+
+#headertwo{
+    display: flex;
+    justify-content: space-between;
+}
+#headerone>ul{
+    list-style: none;
+    display: flex;
+    justify-content:right;
+    padding-top: 20px;
+    
+}
+#headerone>ul>li{
+    padding-right: 30px;
+}
+button{
+    border-style: none;
+}
+
+.slideshow{
+    padding-left: 20px;
+}
+#homeimage{
+    padding-left: 70px;
+}
+#slidepic{
+
+}
+
+#slidepic li{
+    
+    display: inline-block
+
+}
+#slidepic{
+    width: 70%;
+    padding-left: 70px;
+}
+    
+   
+
+
+form{
+    float: right;
+    background-color: azure;
+    margin-top: 10px;
+    border-radius: 20px;
+    padding-left: 5px;
+    margin-right: 100px;
+    
+}
+#name,#email,#number{
+    border-radius: 20px;
+    margin: 3px;
+    padding: 10px;
+
+}
+#text{
+    padding:30px;
+    border-radius: 10px;
+}
+#submit{
+    margin-top: 20px;
+    background-color: black;
+    color:#FFAC12;
+    padding: 30px;
+    width: 300px;
+    border-top-right-radius: 30px;
+}
+table,tr,td{
+    padding: 15px;
+    border: 2px solid white;
+    border-collapse: collapse;
+    
+
+}
+table{
+    width: 100%;
+    margin-top:40px;
+    margin-left: 0px;
+    border-radius: 30px;
+    background-color:rgb(204, 196, 196);
+    height: 150px;
+
+}
+.table{
+    background-color: white;
+    border-radius: 20px;
+    width: 65%;
+    padding-left: 70px;
+    
+}
+#description{
+    border-radius: 20px;
+    width: 65%;
+    padding-left:10px;
+    padding-bottom: 30px;
+    margin-left: 70px;
+    
+}
+#description hr{
+    border-color:azure;
+}
+#featureone{
+   display: flex;
+   justify-content: space-between;
+   padding-right: 60px;
+   padding-bottom: 30px;
+}
+#featureone li{
+padding-bottom: 10px;
+}
+#features{
+  border-radius: 30px;  
+  width: 65%;
+  padding-left: 15px;
+  margin-left: 70px;
+}
+#features>hr{
+    border-color: azure;
+}
+#featureone>div>ul{
+    list-style: none;
+
+}
+
+.ticks{
+    border-radius: 50%;
+    border: 1px solid #FFAC12;
+    background-color: #FFAC12;
+}
+#listing{
+    margin-left: 70px;
+    
+}
+#listings{
+    width: 100%;
+}
+.footertwo{
+    background-color: black;
+    height: 300px;
+    padding-left: 20px;
+   
+
+}
+.footertwo h2{
+    color: white;
+}
+.footertwo ul{
+    color: white;
+    list-style: none;
+}
+.footertwo p{
+    color:white
+
+}
+footer{
+    display: flex;
+}
+#list{
+    display: flex;
+    padding-top: 0px;
+    margin-left: 800px;
+    
+}
+img{
+margin-right:20px;
+justify-content: space-between;
+}
+
+button>table{
+    height:50px;
+    padding-top:none;
+    border-collapse: collapse;
+    border:1px solid lightgrey
+    
+}
+tr,td{
+    border: 1px solid rgb(233,231,231);
+    border-collapse: collapse;
+}
+#listings{
+    padding-left: 70px;
+}
+svg{
+    width: 10px;
+    height: 10px;
+}
+#social a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    
+}
+#social{
+    display: flex;
+}
     
